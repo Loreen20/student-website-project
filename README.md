@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate BSIT student with a growing interest in t
 - Contributing to open-source projects
 
  🌱 I’m currently learning:
-- HTML,CSS,JAVA
+- HTML,CSS,JAVA,PYTHON
 
 📫 How to reach me:
 - Email: lore.culanculan.coc@phinmaed.com
